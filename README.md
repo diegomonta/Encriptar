@@ -26,3 +26,4 @@ Para utilizar este proyecto, solo necesitas un navegador web moderno.
 
 1. Clona este repositorio en tu máquina local usando `git clone`:
    ```bash
+ git clone https://github.com/diegomonta/Encriptar.git
